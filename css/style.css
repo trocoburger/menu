@@ -1,5 +1,6 @@
 html body {
   background-color: black;
+  padding: 4rem 1rem 3rem 1rem;
 }
 html body .splash {
   height: 0;
