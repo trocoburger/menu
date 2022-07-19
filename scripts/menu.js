@@ -23,5 +23,5 @@ ready(function () {
   //open pdf on load
   setTimeout(function () {
     document.getElementById('download-link').click();
-  }, 4000);
+  }, 3500);
 });
