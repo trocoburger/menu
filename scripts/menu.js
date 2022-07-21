@@ -19,9 +19,4 @@ ready(function () {
       menu.classList.add('active', 'animate__animated', 'animate__zoomIn');
     }, 800);
   });
-
-  //open pdf on load
-  setTimeout(function () {
-    document.getElementById('download-link').click();
-  }, 3500);
 });
